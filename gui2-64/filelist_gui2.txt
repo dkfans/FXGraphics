@@ -515,3 +515,9 @@ symbols_64/progress_red.png
 symbols_64/progress_blue.png
 symbols_64/creatr_stat_traingcst_std.png
 symbols_64/creatr_stat_scavngcst_std.png
+crspell_64/arrow_std.png
+crspell_64/arrow_dis.png
+crspell_64/freeze_std.png
+crspell_64/freeze_dis.png
+crspell_64/meteor_std.png
+crspell_64/meteor_dis.png
