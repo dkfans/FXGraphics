@@ -1,0 +1,12 @@
+frontend_torture_doord 0 0 0 0
+tortr_doord_open01.png
+tortr_doord_open02.png
+tortr_doord_open03.png
+tortr_doord_open04.png
+tortr_doord_open05.png
+tortr_doord_open06.png
+tortr_doord_open07.png
+tortr_doord_open08.png
+tortr_doord_open09.png
+tortr_doord_open10.png
+tortr_doord_open11.png

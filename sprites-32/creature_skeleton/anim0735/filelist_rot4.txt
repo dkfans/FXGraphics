@@ -1,0 +1,6 @@
+animation_1902   2   5  -52  -70
+r4frame01.png
+r4frame02.png
+r4frame03.png
+r4frame04.png
+r4frame05.png

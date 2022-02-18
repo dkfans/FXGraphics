@@ -1,0 +1,2 @@
+animation_2008   2   1  -54  -59
+r5frame01.png

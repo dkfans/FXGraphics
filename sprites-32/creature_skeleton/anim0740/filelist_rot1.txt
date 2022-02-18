@@ -1,0 +1,5 @@
+animation_1920   0   4  -22  -47
+r1frame01.png
+r1frame02.png
+r1frame03.png
+r1frame04.png

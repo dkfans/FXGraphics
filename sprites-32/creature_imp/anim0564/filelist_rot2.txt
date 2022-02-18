@@ -1,0 +1,3 @@
+animation_1405   2   2  -17  -28
+r2frame01.png
+r2frame02.png

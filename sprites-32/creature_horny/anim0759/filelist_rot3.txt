@@ -1,0 +1,2 @@
+animation_1973   2   1  -48  -74
+r3frame01.png

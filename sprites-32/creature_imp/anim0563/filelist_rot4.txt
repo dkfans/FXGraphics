@@ -1,0 +1,3 @@
+animation_1402   2   2  -24  -36
+r4frame01.png
+r4frame02.png

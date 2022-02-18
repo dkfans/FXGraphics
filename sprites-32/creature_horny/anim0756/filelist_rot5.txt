@@ -1,0 +1,2 @@
+animation_1960   2   1  -38  -54
+r5frame01.png

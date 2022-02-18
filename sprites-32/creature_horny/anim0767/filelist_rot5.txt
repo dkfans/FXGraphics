@@ -1,0 +1,5 @@
+animation_1991   2   4  -71  -73
+r5frame01.png
+r5frame02.png
+r5frame03.png
+r5frame04.png

@@ -1,0 +1,6 @@
+animation_771   2   5  -52  -63
+r3frame01.png
+r3frame02.png
+r3frame03.png
+r3frame04.png
+r3frame05.png

@@ -1,0 +1,2 @@
+animation_520   2   1  -18  -46
+r5frame01.png

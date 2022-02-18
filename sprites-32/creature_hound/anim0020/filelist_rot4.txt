@@ -1,0 +1,4 @@
+animation_59   2   3  -33  -40
+r4frame01.png
+r4frame02.png
+r4frame03.png

@@ -1,0 +1,2 @@
+animation_1709   2   1  -21  -26
+r2frame01.png
