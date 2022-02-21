@@ -142,3 +142,12 @@ quadptr_power_sight_fr5.png
 quadptr_power_sight_fr6.png
 quadptr_power_sight_fr7.png
 quadptr_power_sight_fr8.png
+tileptr_terrain_impenetrable.png
+tileptr_terrain_gold.png
+tileptr_terrain_earth.png
+tileptr_terrain_reinforced.png
+tileptr_terrain_path.png
+tileptr_terrain_claimed.png
+tileptr_terrain_lava.png
+tileptr_terrain_water.png
+tileptr_terrain_gems.png
