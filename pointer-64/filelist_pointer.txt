@@ -151,3 +151,4 @@ tileptr_terrain_claimed.png
 tileptr_terrain_lava.png
 tileptr_terrain_water.png
 tileptr_terrain_gems.png
+tileptr_power_mkdigger.png
