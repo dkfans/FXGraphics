@@ -154,3 +154,12 @@ tileptr_terrain_gems.png
 tileptr_power_mkdigger.png
 tileptr_mkcreature.png
 tileptr_mvcreature.png
+tileptr_mystery.png
+tileptr_trap_arrow.png
+tileptr_trap_fireball.png
+tileptr_trap_flame.png
+tileptr_trap_freeze.png
+tileptr_trap_hail.png
+tileptr_trap_meteor.png
+tileptr_trap_missile.png
+tileptr_trap_wind.png
