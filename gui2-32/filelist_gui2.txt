@@ -541,8 +541,8 @@ plyrsym_16/symbol_player_white_dead.png
 plyrsym_16/symbol_player_white_good_dead.png
 plyrsym_16/symbol_player_any_dead.png
 plyrsym_16/symbol_room_white_std.png
-placefiller16.png
-placefiller16.png
+room_32/portal_std.png
+room_16/portal_std.png
 placefiller16.png
 placefiller16.png
 rpanel_32/rpanel_extra.png
