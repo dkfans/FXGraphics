@@ -93,3 +93,4 @@ slider_indicator_act.png
 slider_horiz_l.png
 slider_horiz_c.png
 slider_horiz_r.png
+specicon_voice.png
