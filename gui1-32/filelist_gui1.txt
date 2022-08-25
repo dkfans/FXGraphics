@@ -121,7 +121,7 @@ creature_flower_32/health_w2.png
 creature_flower_32/health_w1.png
 options_32/button_grph_pers_neat.png
 options_32/button_resolution.png
-placefiller16.png
+options_32/button_snd_voice.png
 placefiller16.png
 placefiller16.png
 placefiller16.png
