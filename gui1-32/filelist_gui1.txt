@@ -119,12 +119,12 @@ creature_flower_32/health_w4.png
 creature_flower_32/health_w3.png
 creature_flower_32/health_w2.png
 creature_flower_32/health_w1.png
-options_32/button_grph_pers_neat.png
+placefiller16.png
 options_32/button_resolution.png
 options_32/button_snd_voice.png
 options_32/button_grph_pers_rot.png
-options_32/button_grph_pers_iso.png
 options_32/button_grph_pers_neat.png
+options_32/button_grph_pers_straight.png
 placefiller16.png
 placefiller16.png
 placefiller16.png
