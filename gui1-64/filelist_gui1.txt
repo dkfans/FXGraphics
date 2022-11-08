@@ -62,8 +62,8 @@ creature_states_32/creatr_state_unk059.png
 creature_states_32/creatr_state_livid.png
 creature_states_32/creatr_state_cta.png
 creature_states_32/creatr_state_fight.png
-creature_states_32/creatr_state_unk063.png
-creature_states_32/creatr_state_unk064.png
+creature_states_32/creatr_state_scavngd.png
+creature_states_32/creatr_state_tortr.png
 creature_states_32/creatr_state_prison.png
 creature_states_32/creatr_state_manufct.png
 creature_states_32/creatr_state_psycho.png
