@@ -163,3 +163,4 @@ tileptr_trap_hail.png
 tileptr_trap_meteor.png
 tileptr_trap_missile.png
 tileptr_trap_wind.png
+tileptr_room_portal.png
