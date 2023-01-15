@@ -1,2 +1,0 @@
-animation_2061   0   1  -25  -39
-r1frame01.png

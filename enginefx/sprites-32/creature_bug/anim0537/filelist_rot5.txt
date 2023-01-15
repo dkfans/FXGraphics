@@ -1,0 +1,5 @@
+animation_1321   2   4  -34  -21
+r5frame01.png
+r5frame02.png
+r5frame03.png
+r5frame04.png

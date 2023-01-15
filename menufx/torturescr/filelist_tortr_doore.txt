@@ -1,0 +1,12 @@
+frontend_torture_doore 0 0 0 0
+tortr_doore_open01.png
+tortr_doore_open02.png
+tortr_doore_open03.png
+tortr_doore_open04.png
+tortr_doore_open05.png
+tortr_doore_open06.png
+tortr_doore_open07.png
+tortr_doore_open08.png
+tortr_doore_open09.png
+tortr_doore_open10.png
+tortr_doore_open11.png

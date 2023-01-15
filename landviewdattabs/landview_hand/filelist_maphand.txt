@@ -1,0 +1,22 @@
+land_view_power_hand 0 0 0 0
+pwhand_ready_01.png
+pwhand_ready_02.png
+pwhand_ready_03.png
+pwhand_ready_04.png
+pwhand_ready_05.png
+pwhand_ready_06.png
+pwhand_ready_07.png
+pwhand_ready_08.png
+pwhand_slap_01.png
+pwhand_slap_02.png
+pwhand_slap_03.png
+pwhand_slap_04.png
+pwhand_slap_05.png
+pwhand_slap_06.png
+pwhand_slap_07.png
+pwhand_slap_08.png
+pwhand_openmk_01.png
+pwhand_openmk_02.png
+pwhand_openmk_03.png
+pwhand_openmk_04.png
+pwhand_wrong.png

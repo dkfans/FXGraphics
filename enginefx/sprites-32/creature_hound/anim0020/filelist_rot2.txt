@@ -1,0 +1,4 @@
+animation_57   2   3  -33  -40
+r2frame01.png
+r2frame02.png
+r2frame03.png

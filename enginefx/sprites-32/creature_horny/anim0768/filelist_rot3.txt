@@ -1,0 +1,5 @@
+animation_1994   2   4  -54  -54
+r3frame01.png
+r3frame02.png
+r3frame03.png
+r3frame04.png

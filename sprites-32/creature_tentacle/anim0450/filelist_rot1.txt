@@ -1,2 +1,0 @@
-animation_1074   2   1  -24  -29
-r1frame01.png
