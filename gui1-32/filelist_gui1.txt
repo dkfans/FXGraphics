@@ -58,7 +58,7 @@ creature_states_16/creatr_state_resrch.png
 creature_states_16/creatr_state_train.png
 creature_states_16/creatr_state_lair.png
 creature_states_16/creatr_state_hungry.png
-creature_states_16/creatr_state_unk059.png
+creature_states_16/creatr_state_pray.png
 creature_states_16/creatr_state_livid.png
 creature_states_16/creatr_state_cta.png
 creature_states_16/creatr_state_fight.png
