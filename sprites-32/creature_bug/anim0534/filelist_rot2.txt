@@ -1,0 +1,6 @@
+animation_1303   2   5  -27  -23
+r2frame01.png
+r2frame02.png
+r2frame03.png
+r2frame04.png
+r2frame05.png

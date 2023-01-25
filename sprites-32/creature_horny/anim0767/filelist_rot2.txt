@@ -1,0 +1,5 @@
+animation_1988   2   4  -71  -73
+r2frame01.png
+r2frame02.png
+r2frame03.png
+r2frame04.png

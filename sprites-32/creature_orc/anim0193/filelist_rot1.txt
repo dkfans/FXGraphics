@@ -1,0 +1,3 @@
+animation_357   0   2  -62  -39
+r1frame01.png
+r1frame02.png

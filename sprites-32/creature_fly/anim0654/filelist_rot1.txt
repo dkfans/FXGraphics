@@ -1,0 +1,3 @@
+animation_1674   0   2  -30  -30
+r1frame01.png
+r1frame02.png

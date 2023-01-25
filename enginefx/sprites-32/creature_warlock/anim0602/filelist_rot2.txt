@@ -1,7 +1,0 @@
-animation_1523   2   6  -23  -49
-r2frame01.png
-r2frame02.png
-r2frame03.png
-r2frame04.png
-r2frame05.png
-r2frame06.png

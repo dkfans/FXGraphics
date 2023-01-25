@@ -1,0 +1,6 @@
+animation_1961   2   5  -76  -77
+r1frame01.png
+r1frame02.png
+r1frame03.png
+r1frame04.png
+r1frame05.png

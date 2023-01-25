@@ -1,0 +1,12 @@
+frontend_torture_doorg 0 0 0 0
+tortr_doorg_open01.png
+tortr_doorg_open02.png
+tortr_doorg_open03.png
+tortr_doorg_open04.png
+tortr_doorg_open05.png
+tortr_doorg_open06.png
+tortr_doorg_open07.png
+tortr_doorg_open08.png
+tortr_doorg_open09.png
+tortr_doorg_open10.png
+tortr_doorg_open11.png

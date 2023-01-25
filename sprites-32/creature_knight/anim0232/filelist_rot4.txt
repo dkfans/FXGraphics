@@ -1,0 +1,8 @@
+animation_467   2   7  -62  -77
+r4frame01.png
+r4frame02.png
+r4frame03.png
+r4frame04.png
+r4frame05.png
+r4frame06.png
+r4frame07.png

@@ -1,0 +1,3 @@
+animation_1984   0   2  -45  -23
+r1frame01.png
+r1frame02.png

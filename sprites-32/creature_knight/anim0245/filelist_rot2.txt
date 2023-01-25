@@ -1,0 +1,2 @@
+animation_490   2   1  -49  -52
+r2frame01.png

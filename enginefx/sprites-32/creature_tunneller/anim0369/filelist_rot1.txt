@@ -1,3 +1,0 @@
-animation_853   0   2  -49  -44
-r1frame01.png
-r1frame02.png

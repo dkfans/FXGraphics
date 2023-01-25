@@ -1,0 +1,2 @@
+animation_407   2   1  -35  -61
+r1frame01.png

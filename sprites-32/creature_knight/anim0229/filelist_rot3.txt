@@ -1,0 +1,2 @@
+animation_451   2   1  -24  -92
+r3frame01.png
