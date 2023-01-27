@@ -527,10 +527,10 @@ crspell_64/meteor_std.png
 crspell_64/meteor_dis.png
 placefiller32.png
 placefiller32.png
-placefiller32.png
-placefiller32.png
-placefiller32.png
-placefiller32.png
+trapdoor_64/trap_crate_std.png
+trapdoor_64/trap_crate_dis.png
+trapdoor_32/trap_crate_std.png
+trapdoor_32/trap_crate_dis.png
 plyrsym_32/symbol_player_white_std.png
 plyrsym_32/symbol_player_white_good_std.png
 plyrsym_32/symbol_player_red_dead.png
