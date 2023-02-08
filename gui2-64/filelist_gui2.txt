@@ -546,10 +546,10 @@ room_64/portal_dis.png
 room_32/portal_std.png
 room_32/portal_dis.png
 rpanel_64/rpanel_extra.png
-placefiller32.png
-placefiller32.png
-placefiller32.png
-placefiller32.png
+keepower_64/timebomb_std.png
+keepower_64/timebomb_dis.png
+keepower_32/timebomb_std.png
+keepower_32/timebomb_dis.png
 placefiller32.png
 placefiller32.png
 placefiller32.png
