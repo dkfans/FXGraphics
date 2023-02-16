@@ -527,10 +527,10 @@ placefiller16.png
 placefiller16.png
 placefiller16.png
 placefiller16.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
+trapdoor_32/trap_crate_std.png
+trapdoor_32/trap_crate_dis.png
+trapdoor_16/trap_crate_std.png
+trapdoor_16/trap_crate_dis.png
 plyrsym_16/symbol_player_white_std.png
 plyrsym_16/symbol_player_white_good_std.png
 plyrsym_16/symbol_player_red_dead.png
