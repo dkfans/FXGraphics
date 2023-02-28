@@ -1,5 +1,0 @@
-animation_2203   2   4  -19  -28
-r3frame01.png
-r3frame02.png
-r3frame03.png
-r3frame04.png
