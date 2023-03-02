@@ -1,2 +1,0 @@
-animation_1917   2   1  -38  -41
-r4frame01.png

@@ -1,4 +1,0 @@
-animation_58   2   3  -33  -40
-r3frame01.png
-r3frame02.png
-r3frame03.png

@@ -1,0 +1,2 @@
+animation_1832   2   1  -19  -34
+r1frame01.png

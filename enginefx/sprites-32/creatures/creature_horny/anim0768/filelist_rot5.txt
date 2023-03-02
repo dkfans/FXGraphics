@@ -1,0 +1,5 @@
+animation_1996   2   4  -54  -54
+r5frame01.png
+r5frame02.png
+r5frame03.png
+r5frame04.png

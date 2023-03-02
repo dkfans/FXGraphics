@@ -1,5 +1,0 @@
-animation_1325   2   4  -25  -22
-r4frame01.png
-r4frame02.png
-r4frame03.png
-r4frame04.png

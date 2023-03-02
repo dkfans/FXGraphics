@@ -1,0 +1,6 @@
+animation_645   2   5  -72  -81
+r1frame01.png
+r1frame02.png
+r1frame03.png
+r1frame04.png
+r1frame05.png

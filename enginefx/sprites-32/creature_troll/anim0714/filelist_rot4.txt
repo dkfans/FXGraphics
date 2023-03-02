@@ -1,6 +1,0 @@
-animation_1845   2   5  -29  -50
-r4frame01.png
-r4frame02.png
-r4frame03.png
-r4frame04.png
-r4frame05.png
