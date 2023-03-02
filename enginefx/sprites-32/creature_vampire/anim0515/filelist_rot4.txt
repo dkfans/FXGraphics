@@ -1,6 +1,0 @@
-animation_1258   2   5  -51  -72
-r4frame01.png
-r4frame02.png
-r4frame03.png
-r4frame04.png
-r4frame05.png

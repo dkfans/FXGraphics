@@ -1,0 +1,2 @@
+animation_1785   2   1  -58  -84
+r1frame01.png

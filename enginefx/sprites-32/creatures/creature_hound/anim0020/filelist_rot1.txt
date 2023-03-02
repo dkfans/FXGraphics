@@ -1,0 +1,4 @@
+animation_56   2   3  -33  -40
+r1frame01.png
+r1frame02.png
+r1frame03.png

@@ -1,0 +1,8 @@
+animation_465   2   7  -62  -77
+r2frame01.png
+r2frame02.png
+r2frame03.png
+r2frame04.png
+r2frame05.png
+r2frame06.png
+r2frame07.png

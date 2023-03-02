@@ -1,0 +1,2 @@
+animation_1911   2   1  -50  -59
+r3frame01.png

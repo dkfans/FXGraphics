@@ -1,3 +1,0 @@
-animation_1102   0   2  -26  -19
-r1frame01.png
-r1frame02.png

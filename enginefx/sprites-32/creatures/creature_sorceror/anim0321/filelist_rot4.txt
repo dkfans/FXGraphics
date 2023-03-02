@@ -1,0 +1,2 @@
+animation_720   2   1  -28  -64
+r4frame01.png

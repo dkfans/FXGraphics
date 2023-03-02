@@ -1,8 +1,0 @@
-animation_2148   0   7  -25  -91
-r1frame01.png
-r1frame02.png
-r1frame03.png
-r1frame04.png
-r1frame05.png
-r1frame06.png
-r1frame07.png

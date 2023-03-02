@@ -1,6 +1,0 @@
-animation_336   2   5  -45  -77
-r2frame01.png
-r2frame02.png
-r2frame03.png
-r2frame04.png
-r2frame05.png
