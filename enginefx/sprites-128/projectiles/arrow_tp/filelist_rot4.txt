@@ -1,0 +1,2 @@
+animation_2019   2   1  -34  -26
+r4frame01.png
