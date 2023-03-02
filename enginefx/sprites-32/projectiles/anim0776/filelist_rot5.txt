@@ -1,0 +1,2 @@
+animation_2020   2   1  -34  -26
+r5frame01.png
