@@ -1,0 +1,2 @@
+animation_593   2   1  -51  -65
+r1frame01.png

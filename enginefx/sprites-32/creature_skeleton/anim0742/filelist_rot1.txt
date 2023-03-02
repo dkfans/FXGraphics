@@ -1,3 +1,0 @@
-animation_1922   0   2  -28  -35
-r1frame01.png
-r1frame02.png

@@ -1,0 +1,3 @@
+animation_116   0   2  -53  -34
+r1frame01.png
+r1frame02.png

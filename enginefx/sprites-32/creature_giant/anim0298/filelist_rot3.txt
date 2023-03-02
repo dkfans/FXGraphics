@@ -1,6 +1,0 @@
-animation_652   2   5  -56  -59
-r3frame01.png
-r3frame02.png
-r3frame03.png
-r3frame04.png
-r3frame05.png

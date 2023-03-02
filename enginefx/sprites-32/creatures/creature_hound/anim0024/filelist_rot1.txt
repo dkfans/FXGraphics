@@ -1,0 +1,3 @@
+animation_68   2   2  -37  -38
+r1frame01.png
+r1frame02.png

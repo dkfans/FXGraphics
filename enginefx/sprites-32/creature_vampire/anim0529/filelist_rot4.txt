@@ -1,2 +1,0 @@
-animation_1288   2   1  -36  -61
-r4frame01.png

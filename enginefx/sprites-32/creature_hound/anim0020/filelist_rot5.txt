@@ -1,4 +1,0 @@
-animation_60   2   3  -33  -40
-r5frame01.png
-r5frame02.png
-r5frame03.png

@@ -1,0 +1,6 @@
+animation_1019   2   5  -59  -77
+r3frame01.png
+r3frame02.png
+r3frame03.png
+r3frame04.png
+r3frame05.png

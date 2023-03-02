@@ -1,0 +1,2 @@
+animation_1191   2   1  -27  -28
+r4frame01.png

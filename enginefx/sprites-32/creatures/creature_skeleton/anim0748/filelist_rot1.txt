@@ -1,0 +1,2 @@
+animation_1928   0   1  -17  -38
+r1frame01.png

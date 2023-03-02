@@ -1,2 +1,0 @@
-animation_614   2   1  -44  -61
-r2frame01.png

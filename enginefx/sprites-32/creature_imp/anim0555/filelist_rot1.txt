@@ -1,7 +1,0 @@
-animation_1359   2   6  -23  -40
-r1frame01.png
-r1frame02.png
-r1frame03.png
-r1frame04.png
-r1frame05.png
-r1frame06.png

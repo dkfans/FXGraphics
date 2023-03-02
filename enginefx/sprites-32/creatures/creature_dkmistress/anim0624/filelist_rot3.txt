@@ -1,0 +1,7 @@
+animation_1586   2   6  -25  -57
+r3frame01.png
+r3frame02.png
+r3frame03.png
+r3frame04.png
+r3frame05.png
+r3frame06.png

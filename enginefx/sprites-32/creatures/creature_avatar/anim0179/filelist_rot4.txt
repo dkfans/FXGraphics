@@ -1,0 +1,2 @@
+animation_306   2   1  -35  -70
+r4frame01.png

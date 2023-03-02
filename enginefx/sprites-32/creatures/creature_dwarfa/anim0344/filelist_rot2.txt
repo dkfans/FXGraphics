@@ -1,0 +1,2 @@
+animation_785   2   1  -27  -35
+r2frame01.png

@@ -1,5 +1,0 @@
-animation_1987   2   4  -71  -73
-r1frame01.png
-r1frame02.png
-r1frame03.png
-r1frame04.png

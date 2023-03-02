@@ -1,0 +1,3 @@
+animation_70   2   2  -37  -38
+r3frame01.png
+r3frame02.png

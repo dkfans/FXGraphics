@@ -1,2 +1,0 @@
-animation_1951   2   1  -49  -73
-r1frame01.png

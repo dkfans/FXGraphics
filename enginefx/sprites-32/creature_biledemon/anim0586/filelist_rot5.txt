@@ -1,2 +1,0 @@
-animation_1494   2   1  -56  -63
-r5frame01.png
