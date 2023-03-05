@@ -2185,8 +2185,8 @@ particles/anim0916/filelist_rot1.txt
 magic_shine/anim0917/filelist_rot1.txt
 magic_shine/anim0918/filelist_rot1.txt
 magic_shine/anim0919/filelist_rot1.txt
-cloud/anim0920/filelist_rot1.txt
-cloud/anim0921/filelist_rot1.txt
+cloud/cloud_white/filelist_rot1.txt
+cloud/cloud_red/filelist_rot1.txt
 other/meteor/filelist_rot1.txt
 projectiles/missile_fp/filelist_rot1.txt
 projectiles/missile_fp/filelist_rot2.txt
@@ -2211,7 +2211,7 @@ projectiles/grenade_tp/filelist_rot5.txt
 explosions/explosion/filelist_rot1.txt
 explosions/projectile_fire/filelist_rot1.txt
 explosions/projectile_ice/filelist_rot1.txt
-cloud/anim0930/filelist_rot1.txt
+cloud/cloud_green/filelist_rot1.txt
 other/barrel_fp/filelist_rot1.txt
 other/barrel_tp/filelist_rot1.txt
 valuables/gold_sack_fp/filelist_rot1.txt
