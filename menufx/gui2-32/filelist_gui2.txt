@@ -511,8 +511,8 @@ options_32/cassist_btn_green.png
 options_32/cassist_btn_black.png
 symbols_32/goldpot_sml.png
 symbols_32/heartcircle.png
-symbols_32/progress_red.png
-symbols_32/progress_blue.png
+crspell_16/drain_std.png
+crspell_16/drain_dis.png
 symbols_32/creatr_stat_traingcst_std.png
 symbols_32/creatr_stat_scavngcst_std.png
 placefiller16.png

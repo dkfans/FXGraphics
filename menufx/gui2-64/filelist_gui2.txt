@@ -511,8 +511,8 @@ options_64/cassist_btn_green.png
 options_64/cassist_btn_black.png
 symbols_64/goldpot_sml.png
 symbols_64/heartcircle.png
-symbols_64/progress_red.png
-symbols_64/progress_blue.png
+crspell_32/drain_std.png
+crspell_32/drain_dis.png
 symbols_64/creatr_stat_traingcst_std.png
 symbols_64/creatr_stat_scavngcst_std.png
 crspell_64/arrow_std.png
