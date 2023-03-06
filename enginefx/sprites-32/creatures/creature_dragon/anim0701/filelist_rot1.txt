@@ -1,0 +1,5 @@
+animation_1801   0   4  -47 -108
+r1frame01.png
+r1frame02.png
+r1frame03.png
+r1frame04.png

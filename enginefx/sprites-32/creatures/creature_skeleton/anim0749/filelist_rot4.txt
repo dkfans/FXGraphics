@@ -1,0 +1,2 @@
+animation_1932   2   1  -46  -61
+r4frame01.png

@@ -1,2 +1,0 @@
-animation_1916   2   1  -38  -41
-r3frame01.png

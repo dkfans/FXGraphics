@@ -1,0 +1,2 @@
+animation_1959   2   1  -38  -54
+r4frame01.png

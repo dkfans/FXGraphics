@@ -1,0 +1,2 @@
+animation_1999   2   1  -68  -73
+r1frame01.png

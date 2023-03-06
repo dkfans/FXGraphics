@@ -1,3 +1,0 @@
-animation_1983   0   2  -62  -50
-r1frame01.png
-r1frame02.png

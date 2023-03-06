@@ -1,7 +1,0 @@
-animation_1200   2   6  -30  -28
-r3frame01.png
-r3frame02.png
-r3frame03.png
-r3frame04.png
-r3frame05.png
-r3frame06.png

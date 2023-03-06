@@ -1,0 +1,2 @@
+animation_1937   2   1  -35  -49
+r4frame01.png

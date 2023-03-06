@@ -1,0 +1,2 @@
+animation_2015   2   1  -46  -19
+r5frame01.png

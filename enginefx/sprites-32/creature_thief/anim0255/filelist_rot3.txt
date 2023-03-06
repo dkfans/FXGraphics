@@ -1,2 +1,0 @@
-animation_533   2   1  -39  -66
-r3frame01.png

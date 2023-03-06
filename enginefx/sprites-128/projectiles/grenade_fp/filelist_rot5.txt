@@ -1,0 +1,5 @@
+animation_2205   2   4  -19  -28
+r5frame01.png
+r5frame02.png
+r5frame03.png
+r5frame04.png
