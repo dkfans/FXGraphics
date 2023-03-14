@@ -1,4 +1,4 @@
-animation_2042   0   8  -28  -55
+animation_2042   0   8  -28  -65
 r1frame01.png
 r1frame02.png
 r1frame03.png
