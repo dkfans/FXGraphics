@@ -176,7 +176,7 @@ tileptr_trap_slowdn.png
 tileptr_trap_teleport.png
 tileptr_trap_drain.png
 tileptr_trap_timer.png
-tileptr_trap_armageddon.png
+tileptr_trap_lavamlt.png
 tileptr_trap_rebound.png
 tileptr_trap_whip.png
 tileptr_trap_timebomb.png
@@ -188,3 +188,16 @@ quadptr_power_timebomb_fr5.png
 quadptr_power_timebomb_fr6.png
 quadptr_power_timebomb_fr7.png
 quadptr_power_timebomb_fr8.png
+tileptr_power_possess.png
+tileptr_power_sight.png
+tileptr_power_speed.png
+tileptr_power_cta.png
+tileptr_power_conceal.png
+tileptr_power_cavein.png
+tileptr_power_heal.png
+tileptr_power_lightning.png
+tileptr_power_armor.png
+tileptr_power_chicken.png
+tileptr_power_disease.png
+tileptr_power_armageddon.png
+tileptr_power_destrwall.png
