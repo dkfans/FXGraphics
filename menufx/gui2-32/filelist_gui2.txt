@@ -566,8 +566,8 @@ crspell_32/timer_std.png
 crspell_32/timer_dis.png
 keepower_32/timebomb_std.png
 keepower_32/timebomb_dis.png
-placefiller16.png
-placefiller16.png
+crspell_32/rebound_std.png
+crspell_32/rebound_dis.png
 placefiller16.png
 placefiller16.png
 placefiller16.png
