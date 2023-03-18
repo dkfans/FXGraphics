@@ -353,7 +353,7 @@ rpanel_64/tendency_prisne_std.png
 rpanel_64/tendency_prisnd_act.png
 rpanel_64/tendency_prisnd_std.png
 rpanel_64/tendency_prisnu_dis.png
-crspell_64/rebound_std.png
+placefiller16.png
 crspell_64/heal_std.png
 crspell_64/heal_dis.png
 crspell_64/poisncld_std.png
@@ -566,8 +566,8 @@ crspell_64/timer_std.png
 crspell_64/timer_dis.png
 keepower_64/timebomb_std.png
 keepower_64/timebomb_dis.png
-placefiller32.png
-placefiller32.png
+crspell_64/rebound_std.png
+crspell_64/rebound_dis.png
 placefiller32.png
 placefiller32.png
 placefiller32.png
