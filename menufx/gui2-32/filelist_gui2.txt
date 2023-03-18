@@ -353,7 +353,7 @@ rpanel_32/tendency_prisne_std.png
 rpanel_32/tendency_prisnd_act.png
 rpanel_32/tendency_prisnd_std.png
 rpanel_32/tendency_prisnu_dis.png
-crspell_32/rebound_std.png
+placefiller16.png
 crspell_32/heal_std.png
 crspell_32/heal_dis.png
 crspell_32/poisncld_std.png
