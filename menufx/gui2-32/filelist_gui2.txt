@@ -333,10 +333,10 @@ symbols_32/creatr_stat_kills_std.png
 symbols_32/creatr_stat_strength_std.png
 symbols_32/creatr_stat_gold_std.png
 symbols_32/creatr_stat_wage_std.png
-symbols_32/creatr_stat_defense_std.png
+symbols_32/creatr_stat_armor_std.png
 symbols_32/creatr_stat_age_std.png
-symbols_32/creatr_stat_skill_std.png
 symbols_32/creatr_stat_dexterity_std.png
+symbols_32/creatr_stat_defense_std.png
 symbols_32/creatr_stat_luck_std.png
 symbols_32/creatr_stat_blood_std.png
 rpanel_32/rpanel_payday_counter.png
