@@ -392,8 +392,8 @@ crspell_64/dig_std.png
 crspell_64/dig_dis.png
 crspell_64/sword_std.png
 crspell_64/sword_dis.png
-crspell_64/whip_std.png
-crspell_64/whip_dis.png
+keepower_64/mustobey_std.png
+keepower_64/mustobey_dis.png
 rpanel_64/filler_bigblack.png
 rpanel_64/filler_bigblack.png
 rpanel_64/filler_bigblack.png
@@ -450,8 +450,8 @@ crspell_32/dig_std.png
 crspell_32/dig_dis.png
 crspell_32/sword_std.png
 crspell_32/sword_dis.png
-crspell_32/whip_std.png
-crspell_32/whip_dis.png
+keepower_32/mustobey_std.png
+keepower_32/mustobey_dis.png
 crspell_32/arrow_std.png
 crspell_32/arrow_dis.png
 rpanel_64/filler_smallblack.png
