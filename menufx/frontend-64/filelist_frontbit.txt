@@ -97,3 +97,6 @@ specicon_voice.png
 refresh_red.png
 refresh_dkr.png
 refresh_ylw.png
+status_green.png
+status_orange.png
+status_red.png
