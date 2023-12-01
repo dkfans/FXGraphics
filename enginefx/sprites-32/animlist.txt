@@ -2266,3 +2266,8 @@ magic_dust/floatingspirit/filelist_rot1.txt
 magic_dust/magicdust_purple2/filelist_rot1.txt
 furniture/flagpole_whiteflag_fp/filelist_rot1.txt
 furniture/flagpole_whiteflag_td/filelist_rot1.txt
+magic_fogs/sparks_yellow/filelist_rot1.txt
+magic_fogs/heartflame_white/filelist_rot1.txt
+magic_fogs/sight_sparkle_white/filelist_rot1.txt
+magic_fogs/roomflame_white/filelist_rot1.txt
+magic_fogs/claimpuff_white/filelist_rot1.txt
