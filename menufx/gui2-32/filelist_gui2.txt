@@ -556,10 +556,10 @@ crspell_32/timer_std.png
 crspell_32/timer_dis.png
 crspell_32/rebound_std.png
 crspell_32/rebound_dis.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
+crspell_16/cleanse_std.png
+crspell_16/cleanse_dis.png
+crspell_32/cleanse_std.png
+crspell_32/cleanse_dis.png
 placefiller16.png
 placefiller16.png
 placefiller16.png
