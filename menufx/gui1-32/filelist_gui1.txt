@@ -125,10 +125,10 @@ options_32/button_snd_voice.png
 options_32/button_grph_pers_rot.png
 options_32/button_grph_pers_neat.png
 options_32/button_grph_pers_straight.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
+creature_states_16/creatr_state_cta_blue.png
+creature_states_16/creatr_state_cta_green.png
+creature_states_16/creatr_state_cta_yellow.png
+creature_states_16/creatr_state_cta_white.png
 placefiller16.png
 placefiller16.png
 placefiller16.png
