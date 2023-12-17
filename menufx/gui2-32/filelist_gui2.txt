@@ -671,11 +671,11 @@ room_16/grdpost_neutral_std.png
 room_16/grdpost_neutral_dis.png
 room_32/grdpost_neutral_std.png
 room_32/grdpost_neutral_dis.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
-placefiller16.png
+symbols_32/creatr_mood_angry_neutral_std.png
+symbols_32/creatr_mood_content_neutral_std.png
+symbols_32/creatr_mood_happy_neutral_std.png
+symbols_32/creatr_mood_livid_neutral_std.png
+symbols_32/creatr_mood_vhappy_neutral_std.png
 placefiller16.png
 placefiller16.png
 placefiller16.png
