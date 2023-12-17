@@ -667,10 +667,10 @@ trapdoor_64/trap_alarm_white_std.png
 trapdoor_64/trap_alarm_white_dis.png
 trapdoor_64/trap_alarm_yellow_std.png
 trapdoor_64/trap_alarm_yellow_dis.png
-placefiller32.png
-placefiller32.png
-placefiller32.png
-placefiller32.png
+room_32/grdpost_neutral_std.png
+room_32/grdpost_neutral_dis.png
+room_64/grdpost_neutral_std.png
+room_64/grdpost_neutral_dis.png
 placefiller32.png
 placefiller32.png
 placefiller32.png
