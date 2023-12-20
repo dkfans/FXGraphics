@@ -584,8 +584,8 @@ keepower_64/sight_blue_std.png
 keepower_64/sight_blue_dis.png
 keepower_64/sight_green_std.png
 keepower_64/sight_green_dis.png
-keepower_64/sight_white_dis.png
 keepower_64/sight_white_std.png
+keepower_64/sight_white_dis.png
 keepower_64/sight_yellow_std.png
 keepower_64/sight_yellow_dis.png
 message_64/rpanel_msg_creatr_blue_std.png
