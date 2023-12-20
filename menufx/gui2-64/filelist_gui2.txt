@@ -568,8 +568,8 @@ keepower_32/sight_blue_std.png
 keepower_32/sight_blue_dis.png
 keepower_32/sight_green_std.png
 keepower_32/sight_green_dis.png
-keepower_32/sight_white_dis.png
 keepower_32/sight_white_std.png
+keepower_32/sight_white_dis.png
 keepower_32/sight_yellow_std.png
 keepower_32/sight_yellow_dis.png
 keepower_64/cta_blue_std.png
