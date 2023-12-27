@@ -17,6 +17,6 @@ pack002/player_ensigns.png		256	0	32	32
 pack002/earth_player_marks.png	192	0	32	32
 pack002/earth_player_marks.png	224	0	32	32
 pack002/earth_player_marks.png	256	0	32	32
-pack002/ground_player_colors	192	0	32	32
-pack002/ground_player_colors	224	0	32	32
-pack002/ground_player_colors	256	0	32	32
+pack002/ground_player_colors.png	192	0	32	32
+pack002/ground_player_colors.png	224	0	32	32
+pack002/ground_player_colors.png	256	0	32	32
