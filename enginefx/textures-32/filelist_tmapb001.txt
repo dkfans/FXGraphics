@@ -20,3 +20,6 @@ pack001/earth_player_marks.png	256	0	32	32
 pack001/ground_player_colors.png	192	0	32	32
 pack001/ground_player_colors.png	224	0	32	32
 pack001/ground_player_colors.png	256	0	32	32
+pack013/filler_black.png	0	0	32	32
+pack013/filler_black.png	0	0	32	32
+pack013/filler_black.png	0	0	32	32
