@@ -334,3 +334,11 @@ quadptr_power_mkdigger_black_fr8.png
 tileptr_power_cta_black.png
 tileptr_room_guardpst_black.png
 tileptr_trap_alarm_black.png
+quadptr_power_generic_fr1.png
+quadptr_power_generic_fr2.png
+quadptr_power_generic_fr3.png
+quadptr_power_generic_fr4.png
+quadptr_power_generic_fr5.png
+quadptr_power_generic_fr6.png
+quadptr_power_generic_fr7.png
+quadptr_power_generic_fr8.png
