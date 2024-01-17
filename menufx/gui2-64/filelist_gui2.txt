@@ -770,3 +770,7 @@ keepower_32/generic_std.png
 keepower_32/generic_dis.png
 keepower_64/generic_std.png
 keepower_64/generic_dis.png
+keepower_32/vision_std.png
+keepower_32/vision_dis.png
+keepower_64/vision_std.png
+keepower_64/vision_dis.png
