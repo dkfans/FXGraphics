@@ -1,4 +1,4 @@
-animation_2252   0  21  -38 -141
+animation_2252   0  21  -28 -141
 r1frame01.png
 r1frame02.png
 r1frame03.png
