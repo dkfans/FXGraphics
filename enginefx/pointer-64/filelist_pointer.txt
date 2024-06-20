@@ -342,3 +342,11 @@ quadptr_power_generic_fr5.png
 quadptr_power_generic_fr6.png
 quadptr_power_generic_fr7.png
 quadptr_power_generic_fr8.png
+quadptr_power_bleed_fr1.png
+quadptr_power_bleed_fr2.png
+quadptr_power_bleed_fr3.png
+quadptr_power_bleed_fr4.png
+quadptr_power_bleed_fr5.png
+quadptr_power_bleed_fr6.png
+quadptr_power_bleed_fr7.png
+quadptr_power_bleed_fr8.png

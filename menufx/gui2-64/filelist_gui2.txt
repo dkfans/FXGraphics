@@ -774,3 +774,7 @@ keepower_32/vision_std.png
 keepower_32/vision_dis.png
 keepower_64/vision_std.png
 keepower_64/vision_dis.png
+keepower_32/bleed_std.png
+keepower_32/bleed_dis.png
+keepower_64/bleed_std.png
+keepower_64/bleed_dis.png
