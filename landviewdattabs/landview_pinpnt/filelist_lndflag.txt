@@ -35,3 +35,12 @@ pointr_lun8.png
 pointr_lunh.png
 pointr_tuth.png
 pointr_lvlh.png
+pointr_neo1.png
+pointr_neo2.png
+pointr_neo3.png
+pointr_neo4.png
+pointr_neo5.png
+pointr_neo6.png
+pointr_neo7.png
+pointr_neo8.png
+pointr_neoh.png
