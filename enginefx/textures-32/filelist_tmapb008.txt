@@ -20,6 +20,14 @@ pack008/earth_player_marks.png	256	0	32	32
 pack008/ground_player_colors.png	192	0	32	32
 pack008/ground_player_colors.png	224	0	32	32
 pack008/ground_player_colors.png	256	0	32	32
+pack008/gems_near_lava.png			0	0	32	32
+pack008/gems_near_lava.png			32	0	32	32
+pack008/gems_near_lava.png			64	0	32	32
+pack008/gems_near_lava.png			96	0	32	32
+pack013/filler_black.png	0	0	32	32
+pack013/filler_black.png	0	0	32	32
+pack013/filler_black.png	0	0	32	32
+pack013/filler_black.png	0	0	32	32
 pack013/filler_black.png	0	0	32	32
 pack013/filler_black.png	0	0	32	32
 pack013/filler_black.png	0	0	32	32
