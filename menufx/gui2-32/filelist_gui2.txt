@@ -774,3 +774,5 @@ keepower_16/vision_std.png
 keepower_16/vision_dis.png
 keepower_32/vision_std.png
 keepower_32/vision_dis.png
+message_32/rpanel_msg_exclam2_act.png
+message_32/rpanel_msg_exclam2_std.png
