@@ -45,3 +45,5 @@ pack009/door_midas4.png		64	32	32	32
 pack013/filler_black.png	0	0	32	32
 pack013/filler_black.png	0	0	32	32
 pack013/filler_black.png	0	0	32	32
+pack013/filler_black.png	0	0	32	32
+pack013/filler_black.png	0	0	32	32
