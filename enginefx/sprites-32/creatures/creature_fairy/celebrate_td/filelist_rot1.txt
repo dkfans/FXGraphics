@@ -1,4 +1,4 @@
-animation_610   0   4  -47  -56
+animation_609   0   4  -22  -72
 r1frame01.png
 r1frame02.png
 r1frame03.png
