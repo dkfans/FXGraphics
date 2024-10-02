@@ -778,3 +778,17 @@ message_64/rpanel_msg_exclam2_act.png
 message_64/rpanel_msg_exclam2_std.png
 message_64/rpanel_msg_payday_act.png
 message_64/rpanel_msg_payday_std.png
+crspell_32/ranged_buff/armor_other_std.png
+crspell_32/ranged_buff/armor_other_dis.png
+crspell_32/ranged_buff/conceal_other_std.png
+crspell_32/ranged_buff/conceal_other_dis.png
+crspell_32/ranged_buff/flight_other_std.png
+crspell_32/ranged_buff/flight_other_dis.png
+crspell_32/ranged_buff/heal_other_std.png
+crspell_32/ranged_buff/heal_other_dis.png
+crspell_32/ranged_buff/rebound_other_std.png
+crspell_32/ranged_buff/rebound_other_dis.png
+crspell_32/ranged_buff/sight_other_std.png
+crspell_32/ranged_buff/sight_other_dis.png
+crspell_32/ranged_buff/speedup_other_std.png
+crspell_32/ranged_buff/speedup_other_dis.png
