@@ -792,6 +792,8 @@ crspell_32/ranged_buff/sight_other_std.png
 crspell_32/ranged_buff/sight_other_dis.png
 crspell_32/ranged_buff/speedup_other_std.png
 crspell_32/ranged_buff/speedup_other_dis.png
+crspell_64/cleanse_std.png
+crspell_64/cleanse_dis.png
 crspell_32/cleanse_std.png
 crspell_32/cleanse_dis.png
 crspell_32/ranged_buff/cleanse_other_std.png
