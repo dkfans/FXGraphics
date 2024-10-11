@@ -798,3 +798,12 @@ crspell_32/cleanse_std.png
 crspell_32/cleanse_dis.png
 crspell_16/cleanse_std.png
 crspell_16/cleanse_dis.png
+message_32/rpanel_msg_alarm_act.png
+message_32/rpanel_msg_alarm_std.png
+message_32/colored/rpanel_msg_alarm_blue_std.png
+message_32/colored/rpanel_msg_alarm_green_std.png
+message_32/colored/rpanel_msg_alarm_white_std.png
+message_32/colored/rpanel_msg_alarm_yellow_std.png
+message_32/colored/rpanel_msg_alarm_purple_std.png
+message_32/colored/rpanel_msg_alarm_black_std.png
+message_32/colored/rpanel_msg_alarm_orange_std.png
