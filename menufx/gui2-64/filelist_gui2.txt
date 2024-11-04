@@ -576,8 +576,8 @@ keepower_64/colored/cta_blue_std.png
 keepower_64/colored/cta_blue_dis.png
 keepower_64/colored/cta_green_std.png
 keepower_64/colored/cta_green_dis.png
-keepower_64/colored/cta_white_dis.png
 keepower_64/colored/cta_white_std.png
+keepower_64/colored/cta_white_dis.png
 keepower_64/colored/cta_yellow_std.png
 keepower_64/colored/cta_yellow_dis.png
 keepower_64/colored/sight_blue_std.png
