@@ -807,3 +807,11 @@ message_64/colored/rpanel_msg_alarm_yellow_std.png
 message_64/colored/rpanel_msg_alarm_purple_std.png
 message_64/colored/rpanel_msg_alarm_black_std.png
 message_64/colored/rpanel_msg_alarm_orange_std.png
+keepower_32/tunlr_std.png
+keepower_32/tunlr_dis.png
+keepower_64/tunlr_std.png
+keepower_64/tunlr_dis.png
+keepower_32/digger_std.png
+keepower_32/digger_dis.png
+keepower_64/digger_std.png
+keepower_64/digger_dis.png
