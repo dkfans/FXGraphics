@@ -815,3 +815,7 @@ keepower_32/digger_std.png
 keepower_32/digger_dis.png
 keepower_64/digger_std.png
 keepower_64/digger_dis.png
+crspell_64/fear_std.png
+crspell_64/fear_dis.png
+crspell_32/fear_std.png
+crspell_32/fear_dis.png
