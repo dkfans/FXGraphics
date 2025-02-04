@@ -55,7 +55,3 @@ pack012/gold_dense.png		32	64	32	32
 pack012/gold_dense.png		64	64	32	32
 pack012/gold_dense.png		96	64	32	32
 pack013/filler_black.png	0	0	32	32
-pack013/filler_black.png	0	0	32	32
-pack013/filler_black.png	0	0	32	32
-pack013/filler_black.png	0	0	32	32
-pack013/filler_black.png	0	0	32	32
