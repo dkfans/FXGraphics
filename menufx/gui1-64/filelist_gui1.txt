@@ -142,7 +142,7 @@ creature_states_32/creatr_state_lair_orange.png
 placefiller32.png
 placefiller32.png
 placefiller32.png
-placefiller32.png
+creature_portrait_64/chicken_portrt.png
 creature_portrait_64/creatr_portrt_horny.png
 creature_portrait_64/creatr_portrt_skelt.png
 creature_portrait_64/creatr_portrt_troll.png
