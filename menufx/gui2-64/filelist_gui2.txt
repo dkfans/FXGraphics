@@ -819,3 +819,11 @@ crspell_64/fear_std.png
 crspell_64/fear_dis.png
 crspell_32/fear_std.png
 crspell_32/fear_dis.png
+crspell_32/melee_debuff/chicken_melee_std.png
+crspell_32/melee_debuff/chicken_melee_dis.png
+crspell_32/melee_debuff/disease_melee_std.png
+crspell_32/melee_debuff/disease_melee_dis.png
+crspell_32/melee_debuff/freeze_melee_std.png
+crspell_32/melee_debuff/freeze_melee_dis.png
+crspell_32/melee_debuff/slowdn_melee_std.png
+crspell_32/melee_debuff/slowdn_melee_dis.png
