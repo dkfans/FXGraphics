@@ -221,3 +221,5 @@ char_u017a.png
 char_u0179.png
 char_u017c.png
 char_u017b.png
+char_u0100.png
+char_u0101.png
