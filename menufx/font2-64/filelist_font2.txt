@@ -5,7 +5,7 @@ char_u0022.png
 char_u0023.png
 char_u002b.png
 char_u002b.png
-char_u002b.png
+char_u0025.png
 char_u0027.png
 char_u0028.png
 char_u0029.png
