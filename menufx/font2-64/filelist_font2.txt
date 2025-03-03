@@ -91,9 +91,9 @@ char_u0078.png
 char_u0079.png
 char_u007a.png
 char_empty.png
-char_empty.png
-char_empty.png
-char_empty.png
+char_u007b.png
+char_u007c.png
+char_u007d.png
 char_u041b.png
 char_u00c7.png
 char_u00fc.png
