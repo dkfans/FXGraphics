@@ -9,7 +9,7 @@ char_u0025.png
 char_u0027.png
 char_u0028.png
 char_u0029.png
-char_u002b.png
+char_u002a.png
 char_u002b.png
 char_u002c.png
 char_u002d.png
