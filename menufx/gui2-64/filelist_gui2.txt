@@ -827,3 +827,7 @@ crspell_32/melee_debuff/freeze_melee_std.png
 crspell_32/melee_debuff/freeze_melee_dis.png
 crspell_32/melee_debuff/slowdn_melee_std.png
 crspell_32/melee_debuff/slowdn_melee_dis.png
+room_64/heart_std.png
+room_64/heart_dis.png
+room_32/heart_std.png
+room_32/heart_dis.png
