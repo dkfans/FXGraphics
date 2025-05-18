@@ -470,3 +470,4 @@ colored/quadptr_power_mkdiggergeneric_black_fr5.png
 colored/quadptr_power_mkdiggergeneric_black_fr6.png
 colored/quadptr_power_mkdiggergeneric_black_fr7.png
 colored/quadptr_power_mkdiggergeneric_black_fr8.png
+tileptr_room_heart.png
