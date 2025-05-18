@@ -831,7 +831,7 @@ room_32/heart_std.png
 room_32/heart_dis.png
 room_16/heart_std.png
 room_16/heart_dis.png
-message_32/rpanel_msg_exclam2_act.png
+message_32/rpanel_msg_exclam_act.png
 message_32/rpanel_msg_exclam2_std.png
-message_32/rpanel_msg_exclam2r_act.png
+message_32/rpanel_msg_exclam_act.png
 message_32/rpanel_msg_exclam2r_std.png
