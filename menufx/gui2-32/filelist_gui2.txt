@@ -774,8 +774,8 @@ keepower_16/vision_std.png
 keepower_16/vision_dis.png
 keepower_32/vision_std.png
 keepower_32/vision_dis.png
-message_32/rpanel_msg_exclam2_act.png
-message_32/rpanel_msg_exclam2_std.png
+placefiller32.png
+placefiller32.png
 message_32/rpanel_msg_payday_act.png
 message_32/rpanel_msg_payday_std.png
 crspell_16/ranged_buff/armor_other_std.png
@@ -827,3 +827,12 @@ crspell_16/melee_debuff/freeze_melee_std.png
 crspell_16/melee_debuff/freeze_melee_dis.png
 crspell_16/melee_debuff/slowdn_melee_std.png
 crspell_16/melee_debuff/slowdn_melee_dis.png
+room_32/heart_std.png
+room_32/heart_dis.png
+room_16/heart_std.png
+room_16/heart_dis.png
+message_32/rpanel_msg_exclam2_act.png
+message_32/rpanel_msg_exclam2_std.png
+message_32/rpanel_msg_exclam2r_act.png
+message_32/rpanel_msg_exclam2r_std.png
+rpanel_64/cant_make.png
