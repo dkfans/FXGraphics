@@ -835,4 +835,4 @@ message_32/rpanel_msg_exclam_act.png
 message_32/rpanel_msg_exclam2_std.png
 message_32/rpanel_msg_exclam_act.png
 message_32/rpanel_msg_exclam2r_std.png
-rpanel_64/cant_make.png
+rpanel_32/cant_make.png
