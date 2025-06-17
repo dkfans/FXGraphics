@@ -838,3 +838,4 @@ message_64/rpanel_msg_exclam2r_std.png
 rpanel_64/rpanel_manufacture_std.png
 rpanel_64/rpanel_manufacture_dis.png
 rpanel_64/rpanel_manufacture_cant.png
+rpanel_64/portrt_qmark.png
