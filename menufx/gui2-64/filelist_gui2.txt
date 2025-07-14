@@ -774,8 +774,8 @@ keepower_32/vision_std.png
 keepower_32/vision_dis.png
 keepower_64/vision_std.png
 keepower_64/vision_dis.png
-placefiller32.png
-placefiller32.png
+message_64/rpanel_msg_bonusbox_act.png
+message_64/rpanel_msg_bonusbox_std.png
 message_64/rpanel_msg_payday_act.png
 message_64/rpanel_msg_payday_std.png
 crspell_32/ranged_buff/armor_other_std.png
