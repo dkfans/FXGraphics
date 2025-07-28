@@ -44,3 +44,6 @@ ensign_neo6.png
 ensign_neo7.png
 ensign_neo8.png
 ensign_neoh.png
+ensign_2plrh.png
+ensign_3plrh.png
+ensign_4plrh.png

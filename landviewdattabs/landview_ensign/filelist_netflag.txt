@@ -3,9 +3,9 @@ cursor_arrow.png
 cursor_arrow.png
 cursor_arrow.png
 cursor_arrow.png
+ensign_2plrd.png
 ensign_2plr.png
-ensign_2plr.png
+ensign_3plrd.png
 ensign_3plr.png
-ensign_3plr.png
-ensign_4plr.png
+ensign_4plrd.png
 ensign_4plr.png
