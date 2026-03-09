@@ -839,3 +839,5 @@ rpanel_32/rpanel_manufacture_std.png
 rpanel_32/rpanel_manufacture_dis.png
 rpanel_32/rpanel_manufacture_cant.png
 rpanel_32/portrt_qmark.png
+message_32/rpanel_msg_trophy_act.png
+message_32/rpanel_msg_trophy_std.png
