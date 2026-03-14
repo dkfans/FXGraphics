@@ -839,3 +839,11 @@ rpanel_64/rpanel_manufacture_std.png
 rpanel_64/rpanel_manufacture_dis.png
 rpanel_64/rpanel_manufacture_cant.png
 rpanel_64/portrt_qmark.png
+keepower_32/hand_std.png
+keepower_32/hand_dis.png
+keepower_32/slap_std.png
+keepower_32/slap_dis.png
+keepower_64/hand_std.png
+keepower_64/hand_dis.png
+keepower_64/slap_std.png
+keepower_64/slap_dis.png
