@@ -237,3 +237,9 @@ creature_flower_32/health_o4.png
 creature_flower_32/health_o3.png
 creature_flower_32/health_o2.png
 creature_flower_32/health_o1.png
+vscrollbar_64/vscroll_cap_top_std.png
+vscrollbar_64/vscroll_cap_top_act.png
+vscrollbar_64/vscroll_track.png
+vscrollbar_64/vscroll_cap_bottom_std.png
+vscrollbar_64/vscroll_cap_bottom_act.png
+vscrollbar_64/vscroll_thumb.png
