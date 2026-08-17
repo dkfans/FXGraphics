@@ -847,3 +847,5 @@ keepower_64/hand_std.png
 keepower_64/hand_dis.png
 keepower_64/slap_std.png
 keepower_64/slap_dis.png
+rpanel_64/rpanel_btn_pvpage_act.png
+rpanel_64/rpanel_btn_pvpage_std.png
