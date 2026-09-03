@@ -918,3 +918,4 @@ message_32/colored/rpanel_msg_questn_white_std.png
 message_32/rpanel_msg_questn_act.png
 message_32/colored/rpanel_msg_questn_yellow_std.png
 message_32/rpanel_msg_questn_act.png
+message_32/rpanel_msg_blank_std.png
