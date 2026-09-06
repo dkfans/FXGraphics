@@ -94,3 +94,11 @@ slider_horiz_l.png
 slider_horiz_c.png
 slider_horiz_r.png
 specicon_voice.png
+bullfrog_purple_lrg.png
+bullfrog_black_lrg.png
+bullfrog_orange_lrg.png
+bullfrog_white_lrg.png
+bullfrog_purple_med.png
+bullfrog_black_med.png
+bullfrog_orange_med.png
+bullfrog_white_med.png
