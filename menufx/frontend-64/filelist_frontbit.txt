@@ -103,7 +103,7 @@ bullfrog_black_med.png
 bullfrog_orange_med.png
 bullfrog_white_med.png
 random_colour.png
-random_team.png
+team_random.png
 team_1.png
 team_2.png
 team_3.png
