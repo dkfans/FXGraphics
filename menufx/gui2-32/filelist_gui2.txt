@@ -921,3 +921,5 @@ message_32/rpanel_msg_questn_act.png
 message_32/rpanel_msg_blank_std.png
 symbols_32/symbol_map.png
 symbols_32/symbol_sell.png
+symbols_32/symbol_idle.png
+symbols_32/symbol_typing.png
