@@ -9,6 +9,14 @@ ensign_3plrd.png
 ensign_3plr.png
 ensign_4plrd.png
 ensign_4plr.png
+ensign_5plrd.png
+ensign_5plr.png
+ensign_6plrd.png
+ensign_6plr.png
+ensign_7plrd.png
+ensign_7plr.png
+ensign_8plrd.png
+ensign_8plr.png
 ensign_coop2d.png
 ensign_coop2.png
 ensign_coop3d.png
