@@ -23,3 +23,11 @@ ensign_coop3d.png
 ensign_coop3.png
 ensign_coop4d.png
 ensign_coop4.png
+ensign_coop5d.png
+ensign_coop5.png
+ensign_coop6d.png
+ensign_coop6.png
+ensign_coop7d.png
+ensign_coop7.png
+ensign_coop8d.png
+ensign_coop8.png
